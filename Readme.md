@@ -234,7 +234,7 @@ DIVIDE(
 
 ## Author
 
-### Altamash Ansari
+### Altamash Nizamuddin
 
 Data Analyst passionate about transforming complex datasets into actionable business insights through analytics, visualization, and storytelling.
 
